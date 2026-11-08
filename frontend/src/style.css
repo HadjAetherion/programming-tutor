@@ -1,0 +1,27 @@
+/* 全局基础样式（已清理 Vite 模板残留：
+   原 #app { width: 1126px; text-align: center } 会把整页锁死在
+   1126px 宽并居中，导致代码编辑器横向空间不足、代码显示不全） */
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: system-ui, 'Segoe UI', 'Microsoft YaHei', Roboto, sans-serif;
+  font-size: 15px;
+  color: #333;
+  background: #fff;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3 {
+  color: #1f2328;
+}
