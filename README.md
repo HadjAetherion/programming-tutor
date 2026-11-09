@@ -153,6 +153,7 @@ programming-tutor/
 │   └── experiment_admin.py   实验数据录入工具
 ├── docs/
 │   ├── 任务清单.md
+│   ├── 设计/                 需求规格 / 概要设计 / 详细设计 / 接口文档 / 架构图 / 中期检查 / 论文与PPT大纲
 │   └── 实验/                 实验协议 / 前后测卷 / NASA-TLX / 分析报告
 └── start.bat                 一键启动
 ```
